@@ -2,7 +2,7 @@
 
 ## Overview 📝
 
-This is a multi-platform screenshot tool. It works on Windows, Linux and Mac OS. Click CTRL + PRTSC or use a tray icon to take screenshot, crop your screenshot and copy it to clipboard or save it. You don't have to open it every time you want to take screenshot, app will run at startup and will be available anytime!
+This is a multi-platform screenshot tool. It works on Windows, Linux and Mac OS. Click `CTRL + PRTSC` or use a tray icon to take screenshot, then crop your screenshot and copy it to clipboard or save it. You don't have to open it every time you want to take screenshot, app will run at startup and will be available anytime!
 
 ## Technologies 🔧
 
