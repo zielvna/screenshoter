@@ -1,0 +1,24 @@
+{
+    "name": "screenshoter",
+    "version": "1.0.0",
+    "main": "src/main/index.js",
+    "license": "MIT",
+    "dependencies": {
+        "electron-squirrel-startup": "^1.0.0"
+    },
+    "devDependencies": {
+        "@electron-forge/cli": "^6.1.1",
+        "@electron-forge/maker-deb": "^6.1.1",
+        "@electron-forge/maker-rpm": "^6.1.1",
+        "@electron-forge/maker-squirrel": "^6.1.1",
+        "@electron-forge/maker-zip": "^6.1.1",
+        "@electron-forge/publisher-github": "^6.1.1",
+        "electron": "25.1.0"
+    },
+    "scripts": {
+        "start": "electron-forge start",
+        "package": "electron-forge package",
+        "make": "electron-forge make",
+        "publish": "electron-forge publish"
+    }
+}
