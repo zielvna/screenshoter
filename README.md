@@ -10,7 +10,7 @@ This is a multi-platform screenshot tool. It works on Windows, Linux and Mac OS.
 | -------------- | --------------- |
 | Electron       | Framework       |
 | Electron Forge | Builds          |
-| Github Actions | Releases        |
+| GitHub Actions | Releases        |
 | Yarn           | Package manager |
 | Prettier       | Code formatter  |
 
